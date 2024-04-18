@@ -8,7 +8,7 @@ const products = [
     price: 119,
     colors: [
       {
-        code: "black",
+        code: "white",
         img: "./img/air.png",
       },
       {
@@ -19,7 +19,7 @@ const products = [
   },
   {
     id: 2,
-    title: "Air Jordan",
+    title: "Jordan 4",
     price: 149,
     colors: [
       {

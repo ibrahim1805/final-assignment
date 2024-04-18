@@ -12,7 +12,7 @@ const products = [
         img: "./img/air.png",
       },
       {
-        code: "darkblue",
+        code: "black",
         img: "./img/air2.png",
       },
     ],
@@ -27,7 +27,7 @@ const products = [
         img: "./img/jordan.png",
       },
       {
-        code: "green",
+        code: "Grey",
         img: "./img/jordan2.png",
       },
     ],
@@ -38,11 +38,11 @@ const products = [
     price: 109,
     colors: [
       {
-        code: "lightgray",
+        code: "Black",
         img: "./img/blazer.png",
       },
       {
-        code: "green",
+        code: "white",
         img: "./img/blazer2.png",
       },
     ],

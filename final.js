@@ -23,7 +23,7 @@ const products = [
     price: 149,
     colors: [
       {
-        code: "lightgray",
+        code: "black",
         img: "./img/jordan.png",
       },
       {
@@ -34,7 +34,7 @@ const products = [
   },
   {
     id: 3,
-    title: "Blazer",
+    title: "Dior",
     price: 109,
     colors: [
       {
@@ -49,7 +49,7 @@ const products = [
   },
   {
     id: 4,
-    title: "Crater",
+    title: "Balenciaga",
     price: 129,
     colors: [
       {
@@ -57,14 +57,14 @@ const products = [
         img: "./img/crater.png",
       },
       {
-        code: "lightgray",
+        code: "pink",
         img: "./img/crater2.png",
       },
     ],
   },
   {
     id: 5,
-    title: "Hippie",
+    title: "Clb Secrets",
     price: 99,
     colors: [
       {
@@ -72,7 +72,7 @@ const products = [
         img: "./img/hippie.png",
       },
       {
-        code: "black",
+        code: "blue",
         img: "./img/hippie2.png",
       },
     ],
